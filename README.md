@@ -2,8 +2,8 @@
 Code and Coffee, or vice-versa ^^
 
 **Current Projects**  
-[WebApp_Polymer](../PCPrincess/WebApp_Polymer)  
-[RepresentApp](../PCPrincess/RepresentativeApp)
+[Rebellion .NET Core MVC](https://github.com/PCPrincess/Rebellion_GitHub)  
+[RepresentApp](https://github.com/PCPrincess/RepresentativeApp)
 
 To-Do
 * Research methods for configuring a repo as a 'menu' to other repos
